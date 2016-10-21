@@ -100,7 +100,7 @@
       fbLink: "https://www.facebook.com/PlugDJ-Top-CZ-SK-489707661238352/",
       youtubeLink: null,
       website: "http://plugtop.blog.cz/",
-      intervalMessages: ["Sledujte nás také na Facebooku. https://www.facebook.com/PlugDJ-Top-CZ-SK-489707661238352/"],
+      intervalMessages: ["Děkujeme za vaší podporu. S láskou #A-Team :heart:"],
       messageInterval: 15,
       songstats: false,
       commandLiteral: "!",
