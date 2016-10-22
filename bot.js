@@ -47,7 +47,7 @@
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "SamBOT",
-      language: "special",
+      language: "Special",
       chatLink: "https://rawgit.com/TOPBoz/Pojmenuje/master/Special.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
