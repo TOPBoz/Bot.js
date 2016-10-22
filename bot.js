@@ -47,12 +47,12 @@
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "SamBOT",
-      language: "Czech",
-      chatLink: "https://rawgit.com/basicBot/source/master/lang/cs.json",
+      language: "special",
+      chatLink: "https://rawgit.com/TOPBoz/Pojmenuje/master/Special.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
-      startupCap: 1, // 69-200
-      startupVolume: 0, // 69-100
+      startupCap: 25, // 69-200
+      startupVolume: 100, // 69-100
       startupEmoji: true, // true or false
       autowoot: true,
       autoskip: false,
@@ -100,7 +100,7 @@
       fbLink: "https://www.facebook.com/PlugDJ-Top-CZ-SK-489707661238352/",
       youtubeLink: null,
       website: "http://plugtop.blog.cz/",
-      intervalMessages: ["Děkujeme za vaší podporu. S láskou #A-Team :heart:"],
+      intervalMessages: ["Děkujeme za vaší podporu. S láskou A-Team :heart:"],
       messageInterval: 15,
       songstats: false,
       commandLiteral: "!",
