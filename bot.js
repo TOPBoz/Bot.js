@@ -95,7 +95,7 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: "http://prntscr.com/cxa5t2",
+      rulesLink: "http://nd06.jxs.cz/409/601/0d57b7949b_103569967_o2.png",
       themeLink: null,
       fbLink: "https://www.facebook.com/PlugDJ-Top-CZ-SK-489707661238352/",
       youtubeLink: null,
